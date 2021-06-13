@@ -1,0 +1,20 @@
+.welcomebody{
+  /* border: 1px solid; */
+    margin-top: 82px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 139px;
+    margin-right: 139px;
+}
+
+.welcomebody__card {
+  /* border: 1px dotted gray; */
+  text-align: center;
+  align-items: center;
+  
+}
+
+.welcomebody__card__paragraph {
+  width: 138px;
+  height: 57px;
+}

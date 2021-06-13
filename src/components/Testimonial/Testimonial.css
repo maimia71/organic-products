@@ -1,0 +1,60 @@
+.testimonial {
+  text-align: center;
+  color: #374b5c;
+  height: 60.161rem;
+
+  /* border:1px solid; */
+}
+
+.testimonial > img {
+  margin-top: 6.313rem;
+}
+
+.testimonial__info > img {
+  margin-top: 40px;
+  width: 80px;
+  /* height: 6.099rem; */
+  border-radius: 50%;
+}
+
+.testimonial__info > p {
+  margin-top: 1.156rem;
+  font-size: 1.625rem;
+}
+
+.testimonial__quote > p {
+  font-size: 1rem !important;
+}
+
+.user__rating {
+  color: #00dbd0;
+}
+
+.subscribe{
+  margin-top: 7.938rem;
+}
+
+.subscribe__input {
+  /* text-align: center; */
+  /* width: 35.563rem; */
+  height: 4.313rem;
+  margin-top: 4.125rem;
+}
+
+.subscribe__input > input {
+  border: none;
+  width: 290px;
+}
+
+.subscribe__input > button {
+  width: 130px;
+  height: 50px;
+  border-radius: 30px;
+  background-color: #00dbd0;
+  color: white;
+  border:none;
+}
+
+#subscribe__header {
+  font-size: 2.25rem;
+}

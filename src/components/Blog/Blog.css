@@ -1,0 +1,13 @@
+.blog {
+  height: 45.386rem;
+  text-align: center;
+  color: #374b5c;
+}
+
+.blog__cards {
+  margin-top: 5rem;
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 13.313rem;
+  margin-right: 13.313rem;
+}

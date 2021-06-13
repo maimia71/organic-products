@@ -1,0 +1,27 @@
+.welcome{
+    text-align: center;
+    align-items: center;   
+    height: 620px; 
+}
+
+.welcome>p{
+    color: rgb(85, 80, 80);
+    font-weight: normal;
+    font-size: 36px;
+}
+
+.welcome__paragraph{
+    /* border: 1px solid; */
+    color: gray;
+    margin: 0 auto;
+    width: 568px;
+    height: 42px;
+    align-items: center;
+    text-align: center;
+}
+
+.welcome__body{
+    /* display: flex; */
+    /* justify-content: space-around; */
+    justify-content: center;
+}
