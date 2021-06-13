@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/organic-products/static/css/main.ebe2f699.chunk.css",
+    "main.js": "/organic-products/static/js/main.8e969354.chunk.js",
+    "main.js.map": "/organic-products/static/js/main.8e969354.chunk.js.map",
+    "runtime-main.js": "/organic-products/static/js/runtime-main.8705266d.js",
+    "runtime-main.js.map": "/organic-products/static/js/runtime-main.8705266d.js.map",
+    "static/js/2.a3695286.chunk.js": "/organic-products/static/js/2.a3695286.chunk.js",
+    "static/js/2.a3695286.chunk.js.map": "/organic-products/static/js/2.a3695286.chunk.js.map",
+    "index.html": "/organic-products/index.html",
+    "static/css/main.ebe2f699.chunk.css.map": "/organic-products/static/css/main.ebe2f699.chunk.css.map",
+    "static/js/2.a3695286.chunk.js.LICENSE.txt": "/organic-products/static/js/2.a3695286.chunk.js.LICENSE.txt",
+    "static/media/body_image.317690fe.png": "/organic-products/static/media/body_image.317690fe.png",
+    "static/media/copyright_logo.a1f07d91.PNG": "/organic-products/static/media/copyright_logo.a1f07d91.PNG",
+    "static/media/flower.71ea1be1.png": "/organic-products/static/media/flower.71ea1be1.png",
+    "static/media/Footer.css": "/organic-products/static/media/footer.3fc7b986.png",
+    "static/media/left_design.47a08fa1.png": "/organic-products/static/media/left_design.47a08fa1.png",
+    "static/media/organic_handwash.9f17d9b2.png": "/organic-products/static/media/organic_handwash.9f17d9b2.png",
+    "static/media/organic_oil.924d27ac.png": "/organic-products/static/media/organic_oil.924d27ac.png",
+    "static/media/organic_soap.d3eb3b0b.png": "/organic-products/static/media/organic_soap.d3eb3b0b.png",
+    "static/media/user.b95faad6.png": "/organic-products/static/media/user.b95faad6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8705266d.js",
+    "static/js/2.a3695286.chunk.js",
+    "static/css/main.ebe2f699.chunk.css",
+    "static/js/main.8e969354.chunk.js"
+  ]
+}
